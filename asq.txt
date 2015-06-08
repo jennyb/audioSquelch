@@ -1,0 +1,6 @@
+
+
+[main]
+radio: 358
+frequency: 94100000
+mode: fm
